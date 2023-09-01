@@ -14,7 +14,7 @@ import (
 	"strings"
 	"syscall"
 	"time"
-	"bazil.org/fuse"
+	"github.com/anacrolix/fuse"
 )
 
 type davEmpty struct {}
